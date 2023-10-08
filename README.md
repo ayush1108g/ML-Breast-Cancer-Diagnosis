@@ -1,3 +1,9 @@
+# Contributers
+
+### Ayush Gupta 
+### Vivek Singh
+### Divya Kumar
+
 # Breast Cancer Detection ML Hackathon
 
 This repository contains code for an ML hackathon focused on breast cancer detection. The goal of this hackathon is to develop an accurate model that can predict whether a breast mass is benign or malignant based on various features.
